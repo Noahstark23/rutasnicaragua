@@ -1,2 +1,11 @@
 # rutasnicaragua
-todas las rutas y viejas de nicaragua en una sola pagina 
+
+Aplicación web para visualizar las rutas de buses de Nicaragua.
+
+## Desarrollo
+
+```
+cd frontend
+npm install
+npm run dev
+```
