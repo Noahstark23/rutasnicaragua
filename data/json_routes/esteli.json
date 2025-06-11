@@ -1,0 +1,6 @@
+{
+  "city": "Esteli",
+  "routes": [
+    {"id": 1, "name": "Linea 1"}
+  ]
+}
